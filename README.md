@@ -10,7 +10,9 @@ Joining the W3C [Design Tokens Community Group (DTCG)](https://www.w3.org/groups
 
 ## Book
 
-**Intelligent Interfaces: Designing AI Experiences, Behavioral Systems and Product Decisions** (Brauer, Portuguese edition). What a person needs to see, understand and act on when a system makes decisions on their behalf. [Get launch updates](https://www.marcosrezende.com/book-intelligent-interfaces)
+**[Novo Repertório: O que product designers precisam saber para trabalhar com IA](https://marcosrezende.link/ai-book)** (Editora Brauer, 2026, 100 pages, in Portuguese). The AI systems designers work with and the changes they bring to the practice, from uncertainty to specification and acceptance criteria. Free digital edition; print in pre-sale.
+
+ISBN 978-65-83390-38-7 (print) · ISBN 978-65-83390-39-4 (ePub)
 
 <details>
 <summary><b>Products I designed and built</b></summary>
