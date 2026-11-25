@@ -4,7 +4,7 @@ I design AI systems that people can supervise, reverse and audit.
 
 Senior product designer at [Hive](https://hive.co), with 16 years in product design and the last several focused on AI: agentic workflows, automation and design systems shipped as code. Before Hive, I led design for SharePoint News and AI experiences in the Microsoft 365 Copilot ecosystem at Microsoft, and designed AI, ML and automation features at Qlik.
 
-[Portfolio](https://www.marcosrezende.com) · [Books](https://www.marcosrezende.com/books) · [YouTube](https://www.youtube.com/@MarcosRezende) · [LinkedIn](https://www.linkedin.com/in/marcosrezende/) · [Medium](https://marcosrezende.medium.com/) · [Gumroad](https://marcosrezende.gumroad.com/) · [Mentorship](https://www.marcosrezende.com/ux-mentorship) · [CV](https://marcosrezende.link/cv)
+[Portfolio](https://www.marcosrezende.com) · [Books](https://www.marcosrezende.com/books) · [YouTube](https://www.youtube.com/@MarcosRezende) · [LinkedIn](https://www.linkedin.com/in/marcosrezende/) · [Medium](https://marcosrezende.medium.com/) · [Gumroad](https://marcosrezende.gumroad.com/) · [Mentorship](https://www.marcosrezende.com/ux-mentorship) · [CV](https://marcosrezende.link/cv) · [All links](https://marcosrezende.design/links)
 
 Joining the W3C [Design Tokens Community Group (DTCG)](https://www.w3.org/groups/cg/design-tokens/) and [Web Components Community Group](https://www.w3.org/groups/cg/webcomponents/) as an individual contributor.
 
